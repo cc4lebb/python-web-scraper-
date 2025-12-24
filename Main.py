@@ -1,8 +1,7 @@
-# website to scrape : https://www.jbhifi.com.au/products/apple-airpods-pro-3
-
 import requests
+from bs4 import BeautifulSoup as bs
+from urls import url_list
 
-url = "https://www.jbhifi.com.au/products/apple-airpods-pro-3"
-
-response = requests.get(url)
-print(response)
+response = requests.get(url_list[1])
+soup = bs(response.text, 'html.parser')
+print(soup)

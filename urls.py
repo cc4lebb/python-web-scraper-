@@ -1,0 +1,7 @@
+url_list = [
+    "https://www.amazon.com.au/Cancellation-Translation-Bluetooth-Headphones-High-Fidelity/dp/B0FQDRMVFV/ref=asc_df_B0FQDRMVFV?mcid=e7d3561fa27d31929836a59646eb066a&tag=googleshopdsk-22&linkCode=df0&hvadid=712298203192&hvpos=&hvnetw=g&hvrand=13572706421167761427&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9070718&hvtargid=pla-2442389781779&psc=1&gad_source=1",
+    "https://www.officeworks.com.au/shop/officeworks/p/apple-airpods-pro-3-apairpro3?region_id=GTYP6H&cm_mmc=Google%3ASEM%3AAlways_on%3AOW%7CAU+%7CTechnology%7CApple_Supplier%7CNA%7CSEM%7CGoogle%7CPMax%7CNA-OFFTHE270725&s_kwcid=AL%2112073%213%21%21%21%21x%21%21&gclsrc=aw.ds&gad_source=1&gad_campaignid=19856019508&gbraid=0AAAAAD1FgQazo76F2392Rb22CTrvDWdXC&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ6G9OCqzqVlW_Oda35hTAUq_KUTOVlL9DVp7vl0TS7pheocRZaVjchoCTUIQAvD_BwE&regionIdSet=true",
+    "https://www.dicksmith.com.au/da/buy/apple-airpods-pro-3-00195950754483/?utm_source=google&utm_medium=product_listing_ads&gad_source=1&gad_campaignid=21934453660&gbraid=0AAAAADbV1Qy1eiIZvS54KF6ZtOxkjLofJ&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ1203WTRs1oKjlpiVeTFvxQQQYBYSLl3ZDO2yY-AXrtqOCLlJ9SnGBoC0iYQAvD_BwE",
+    "https://www.harveynorman.com.au/apple-airpods-pro-3.html?gclsrc=aw.ds&gad_source=1&gad_campaignid=20551240205&gclid=CjwKCAiAmKnKBhBrEiwAaqAnZ1g3QXtFoXhEa0FnzEy_Nf_KesKayi9JKRhlwi6bDgSxpfsdIqHErxoCybkQAvD_BwE"
+    # need to add jb hifi back later
+]
